@@ -1,4 +1,46 @@
-body {
-  background-color: ;
-  font-family: "Times New Roman", Times, serif;
+@-ms-viewport{
+  width: device-width;
 }
+
+
+
+
+
+nav  {
+    background-color: black;
+	height : 50px; }
+
+
+
+nav ul li {
+	list-style-type: none;
+	width: 150px;
+	float: left;
+	text-align: center;
+	
+ }
+ 
+  li a {
+	text-decoration: none;
+	color: white;
+	line-height: 50px
+	
+	
+	}
+	
+h1 { text-align: center;}	
+
+p {text-align: center
+  font-family:"times roman",georgia,serif;
+}
+
+img {
+     text-align: center;
+} 
+
+body {
+	background-color: grey;
+	font-family: "times roman",georgia,serif;
+
+}
+  
