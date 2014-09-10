@@ -28,7 +28,7 @@ nav ul li {
 	
 h1 { text-align: center;}	
 
-p {text-align: center;
+p {text-align: justify;
   
 }
 
@@ -39,6 +39,7 @@ img {
 body {
 	background-color: grey;
 	font-family: "times roman",georgia,serif;
+	text-align: center;
 
 }
   
