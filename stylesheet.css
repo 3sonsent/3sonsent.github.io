@@ -52,13 +52,52 @@ body {
 }
 
   h1{
-	
-	color: white;
+  	Font-size: 300%;
+	color: white; 
+	position:relative;
+	left: 100px;
+	top: 100px;
 
 
 
 
 }
+
+footer {  
+
+	background-color: ;
+	height: 50px;
+	opacity: ;
+	
+	right: 200px;
+
+
+}
+
+
+p {
+	color: white;
+
+
+
+
+
+
+}
+img {
+
+padding-right: 2px;
+	
+
+
+
+
+}
+
+
+
+
+
 
 
 
